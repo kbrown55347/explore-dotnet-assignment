@@ -1,0 +1,15 @@
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/explore-dotnet-assignment
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/explore-dotnet-assignment.deps.json
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/explore-dotnet-assignment.runtimeconfig.json
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/explore-dotnet-assignment.dll
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/ref/explore-dotnet-assignment.dll
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/bin/Debug/net6.0/explore-dotnet-assignment.pdb
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.csproj.AssemblyReference.cache
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.AssemblyInfoInputs.cache
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.AssemblyInfo.cs
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.csproj.CoreCompileInputs.cache
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.dll
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/ref/explore-dotnet-assignment.dll
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.pdb
+/Users/kelseybrown/Prime/T3/explore-dotnet-assignment/obj/Debug/net6.0/explore-dotnet-assignment.genruntimeconfig.cache
